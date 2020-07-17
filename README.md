@@ -1,1 +1,3 @@
 # PlayBillingLibraryPractice
+
+Google Playストアの課金機能を使うライブラリの実装
